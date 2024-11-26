@@ -790,7 +790,13 @@ main {
 .timeline-item:not(:last-child) { margin-bottom: 20px; }
 
 .timeline-item-title {
-  font-size: 11px;
+  font-size: 14px;
+  line-height: 1.3;
+  margin-bottom: 7px;
+}
+
+.timeline-item-sub-title {
+  font-size: 12px;
   line-height: 1.3;
   margin-bottom: 7px;
 }
